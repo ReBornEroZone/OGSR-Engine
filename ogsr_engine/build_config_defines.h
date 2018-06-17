@@ -99,7 +99,7 @@
 #define SHOTG_EXTRA_AMMO_FIX
 
 // Red Virus: bobbing effect from lost alpha
-//#define WPN_BOBBING
+#define WPN_BOBBING
 
 // Очистка списка задач при загрузке сейва от выполненных и проваленных
 //#define KEEP_INPROGRESS_TASKS_ONLY
